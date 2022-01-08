@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">161238456972-uun718sr8vf9md2t0vupekv9fjb0l65i.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">161238456972</string>
+    <string name="google_api_key" translatable="false">AIzaSyB8dclh0HsSuBjXZzcC1MBiycPRfs0RFlA</string>
+    <string name="google_app_id" translatable="false">1:161238456972:android:e590c4f751f24fcf69f9a9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB8dclh0HsSuBjXZzcC1MBiycPRfs0RFlA</string>
+    <string name="google_storage_bucket" translatable="false">tenant-finder-49047.appspot.com</string>
+    <string name="project_id" translatable="false">tenant-finder-49047</string>
+</resources>
